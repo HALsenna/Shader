@@ -1,0 +1,5 @@
+﻿  compilation object save succeeded; see C:\ClassFile\GG31\ShaderViewer\ShaderProject\Assets\DepthShadowPS.cso
+C:\ClassFile\GG31\ShaderViewer\ShaderProject\ToonDepthShadowPS.hlsl(48,8-59): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\ClassFile\GG31\ShaderViewer\ShaderProject\Assets\ToonDepthShadowPS.cso
+  ShaderProject.vcxproj -> C:\ClassFile\GG31\ShaderViewer\x64\Release\ShaderProject.exe
